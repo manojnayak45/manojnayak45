@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rthod Manoj kumar 
+- 👋 Hi, I’m @Rathod Manoj kumar 
 - 👀 I’m interested in web-d and cp
 - 🌱 I’m currently learning wed-d 
 - 💞️ I’m looking to collaborate on web-d projects 
