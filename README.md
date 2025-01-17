@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Rathod Manoj kumar 
-- 👀 I’m interested in web-d and cp
-- 🌱 I’m currently learning wed-d 
-- 💞️ I’m looking to collaborate on web-d projects 
-- 📫 How to reach me ... www.linkedin.com/in/rathod-manoj-kumar-
-
+- 💻 Full Stack Developer | Next.js Specialist | MERN Enthusiast | Frontend Expert
+Crafting seamless web experiences with Next.js and MERN stack. Skilled in building dynamic, responsive applications, delivering robust frontends, and scalable backends. Passionate about optimizing performance, mastering new technologies, and driving innovation in web development. Let's create the future, one line of code at a time!
 <!---
 manojnayak45/manojnayak45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
